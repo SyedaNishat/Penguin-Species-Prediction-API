@@ -1,7 +1,7 @@
 # Penguin Species Prediction API
 
 ## Overview
-This project predicts penguin species using a Random Forest Classifier trained on the Palmer Penguins dataset. The trained model is served through a FastAPI REST API and deployed using Docker.
+This project predicts penguin species using a Random Forest Classifier trained on the Palmer Penguins dataset. The trained model is served through a FastAPI REST API and deployed using Docker.hbjhbjkk
 
 ## Technologies
 - Python
