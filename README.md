@@ -4,7 +4,7 @@
 
 This project predicts the species of a penguin using four numeric measurements.
 
-The model is trained using the Palmer Penguins dataset and served using FastAPI. The application is containerized using Docker. ffdgfd
+The model is trained using the Palmer Penguins dataset and served using FastAPI. The application is containerized using Docker.
 
 ## Features
 
