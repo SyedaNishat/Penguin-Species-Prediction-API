@@ -2,7 +2,7 @@
 
 ## Description
 
-This project predicts the species of a penguin using four numeric measurements.
+This project predicts the species of a penguin using four numeric measurements. bvvvvn
 
 The model is trained using the Palmer Penguins dataset and served using FastAPI. The application is containerized using Docker.
 
