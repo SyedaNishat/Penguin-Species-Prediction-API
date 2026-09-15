@@ -6,7 +6,7 @@ This project predicts the species of a penguin using four(4) numeric measurement
 
 The model is trained using the Palmer Penguins dataset and served using FastAPI. The application is containerized using Docker.
 
-## Features
+## Features are:
 
 - FastAPI REST API
 - Random Forest Classifier
